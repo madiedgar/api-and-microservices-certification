@@ -18,6 +18,41 @@ Here is work related to the completion of FreeCodeCamp's API and Microservices c
 
 ## Basic Node & Express
 
+[ ] Introduction to the Basic Node and Express Challenges
+[ ] Meet the Node console
+[ ] Start a Working Express Server
+[ ] Serve an HTML File
+[ ] Serve Static Assets
+[ ] Serve JSON on a Specific Route
+[ ] Use the .env File
+[ ] Implement a Root-Level Request Logger Middleware
+[ ] Chain Middleware to Create a Time Server
+[ ] Get Route Parameter Input from the Client
+[ ] Get Query Parameter Input from the Client
+[ ] Use body-parser to Parse POST Requests
+[ ] Get Data from POST Requests
+
 ## MongoDB & Mongoose
 
+[ ] Introduction to the MongoDB and Mongoose Challenges
+[ ] Install and Set Up Mongoose
+[ ] Create a Model
+[ ] Create and Save a Record of a Model
+[ ] Create Many Records with model.create()
+[ ] Use model.find() to Search Your Database
+[ ] Use model.findOne() to Return a Single Matching Document from Your Database
+[ ] Use model.findById() to Search Your Database By \_id
+[ ] Perform Classic Updates by Running Find, Edit, then Save
+[ ] Perform New Updates on a Document Using model.findOneAndUpdate()
+[ ] Delete One Document Using model.findByIdAndRemove
+[ ] Delete Many Documents with model.remove()
+[ ] Chain Search Query Helpers to Narrow Search Results
+
 ## API's and Microservices Projects
+
+[ ] Introduction to the APIs and Microservices Projects
+[ ][timestamp microservice]()
+[ ][request header parser microservice]()
+[ ][url shortener microservice]()
+[ ][exercise tracker]()
+[ ][file metadata microservice]()
