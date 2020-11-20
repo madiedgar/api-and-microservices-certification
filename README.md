@@ -50,9 +50,9 @@ Here is work related to the completion of FreeCodeCamp's API and Microservices c
 
 ## API's and Microservices Projects
 
-⬜ Introduction to the APIs and Microservices Projects
-⬜ [timestamp microservice]()
-⬜ [request header parser microservice]()
-⬜ [url shortener microservice]()
-⬜ [exercise tracker]()
+⬜ Introduction to the APIs and Microservices Projects  
+⬜ [timestamp microservice]()  
+⬜ [request header parser microservice]()  
+⬜ [url shortener microservice]()  
+⬜ [exercise tracker]()  
 ⬜ [file metadata microservice]()
